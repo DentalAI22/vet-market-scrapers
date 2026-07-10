@@ -1,0 +1,46 @@
+{
+  "_README": "Veterinary broker source registry. Mirrors the dental TDPM broker_codes.json pattern. site_prefix TVM = The Veterinary Market (feeds theveterinarymarket.com + siblings). NEVER collides with dental's TDPM-. 'ref_prefix' is the source-scoped broker reference shown muted on cards (e.g. OMNIV #azv311). 'aggregator: true' sources are treated like dental's blocked aggregators and purged by the normalizer.",
+  "site_prefix": "TVM",
+  "sources": {
+    "omnivet": {
+      "broker_name": "Omni Practice Group (Veterinary)",
+      "broker_url": "https://omnipg-vet.com/",
+      "ref_prefix": "OMNIV",
+      "aggregator": false
+    },
+    "simmons": {
+      "broker_name": "Simmons & Associates",
+      "broker_url": "https://simmonsinc.com/practice-listings/",
+      "ref_prefix": "SIM",
+      "aggregator": false
+    },
+    "vetsales": {
+      "broker_name": "Vet Sales Consulting",
+      "broker_url": "https://vetsalesconsulting.com/businesses-for-sale/",
+      "ref_prefix": "VSC",
+      "aggregator": false
+    },
+    "tpsg": {
+      "broker_name": "Total Practice Solutions Group",
+      "broker_url": "https://www.totalpracticesolutionsgroup.com/practices-for-sale/",
+      "ref_prefix": "TPSG",
+      "aggregator": false
+    },
+    "psbroker": {
+      "broker_name": "PS Broker",
+      "broker_url": "https://psbroker.com/veterinary-practices-for-sale/",
+      "ref_prefix": "PSB",
+      "aggregator": false
+    },
+    "psadvisors": {
+      "broker_name": "Practice Sales Advisors",
+      "broker_url": "https://www.practicesalesadvisors.com/listings",
+      "ref_prefix": "PSA",
+      "aggregator": false
+    }
+  },
+  "blocked_aggregators": [
+    "bizbuysell", "bizquest", "loopnet", "dealstream", "businessbroker",
+    "practiceorbit", "provide", "tusk"
+  ]
+}
