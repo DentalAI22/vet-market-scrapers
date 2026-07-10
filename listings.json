@@ -66,28 +66,6 @@
     "is_new": true
   },
   {
-    "id": "sim-small-animal-practice-for-sale-in-san-antonio",
-    "siteId": "TVM-00097",
-    "source": "simmons",
-    "source_url": "https://simmonsinc.com/practice-listings/small-animal-practice-for-sale-in-san-antonio/",
-    "type": "Small Animal",
-    "state": "",
-    "city": "",
-    "asking_price": null,
-    "annual_revenue": 1000000,
-    "annual_collections": null,
-    "key_metric_value": null,
-    "exam_rooms": null,
-    "broker_name": "Simmons & Associates",
-    "broker_company": "Simmons & Associates",
-    "broker_url": "https://simmonsinc.com/practice-listings/",
-    "broker_ref": "SIM",
-    "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
-    "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-10",
-    "is_new": true
-  },
-  {
     "id": "sim-new-listing-southwest-coast",
     "siteId": "TVM-00098",
     "source": "simmons",
