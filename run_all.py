@@ -30,9 +30,22 @@ import time
 
 sys.path.insert(0, os.path.dirname(__file__))
 
+OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "output")
+
 logging.basicConfig(level=logging.INFO,
                     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s")
 logger = logging.getLogger("run_all")
+
+
+def _csv_data_rows(path):
+    """Data rows (excluding header) in a CSV; 0 if missing/empty/unreadable."""
+    if not os.path.exists(path):
+        return 0
+    try:
+        with open(path, newline="", encoding="utf-8") as f:
+            return max(0, sum(1 for _ in f) - 1)
+    except OSError:
+        return 0
 
 # (display_name, module_name)
 SCRAPERS = [
@@ -49,15 +62,38 @@ def run_scraper(name, module_name):
     logger.info("=" * 60)
     logger.info("STARTING: %s", name)
     logger.info("=" * 60)
+
+    # Guard against transient source outages (e.g. a broker blocking the CI
+    # runner IP). If the scraper writes an EMPTY CSV over a previously non-empty
+    # one — whether it raised, or "succeeded" with 0 parsed rows because it got a
+    # block page — restore the last-good CSV so the source retains its prior
+    # listings instead of vanishing from listings.json. The live sites pull
+    # listings.json, so a single blocked broker must never wipe real inventory.
+    out_csv = os.path.join(OUTPUT_DIR, module_name + "_raw.csv")
+    prev_rows = _csv_data_rows(out_csv)
+    prev_content = None
+    if prev_rows > 0:
+        with open(out_csv, encoding="utf-8") as f:
+            prev_content = f.read()
+
+    count = 0
     try:
         mod = importlib.import_module(module_name)
         results = mod.run()
         count = len(results) if results else 0
         logger.info("%s: %d listings", name, count)
-        return count
     except Exception as e:
         logger.error("%s failed: %s", name, e)
-        return 0
+
+    if _csv_data_rows(out_csv) == 0 and prev_content is not None:
+        with open(out_csv, "w", encoding="utf-8") as f:
+            f.write(prev_content)
+        logger.warning("%s returned 0 rows (likely blocked/transient) — RESTORED "
+                       "last-good %d rows; source keeps prior listings.",
+                       name, prev_rows)
+        return prev_rows
+
+    return count
 
 
 def main():
