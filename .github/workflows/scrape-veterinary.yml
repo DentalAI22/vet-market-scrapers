@@ -6,7 +6,7 @@
 # (see NETWORK-BUILDOUT-AND-RUNCOST.md). Do NOT restore the q3h cron — 3 daily
 # verticals at q3h blows the budget; daily is the network standard.
 #
-# HOSTED 2026-07-10 at DentalAI22/market-network-veterinary-scrapers, PUBLIC ->
+# HOSTED 2026-07-10 at DentalAI22/vet-market-scrapers, PUBLIC ->
 # GitHub Actions minutes are unlimited/free (the recommended path in the runcost
 # doc; private repos share only 2,000 free Linux-min/mo across the account and
 # dental already sits near that cliff). The job pushes back with the default
@@ -58,7 +58,7 @@ jobs:
 
       - name: Commit refreshed dataset
         # WIRING (resolved 2026-07-10 — option (b)): this rig is its own GitHub repo
-        # (DentalAI22/market-network-veterinary-scrapers, PUBLIC). It commits ONLY
+        # (DentalAI22/vet-market-scrapers, PUBLIC). It commits ONLY
         # its own tracked files here. It does NOT reach into the site repos —
         # ../veterinary (DentalAI22/market-network-template) and ../veterinarypractice
         # are SEPARATE git repos and the old cross-repo `git add` would have failed
