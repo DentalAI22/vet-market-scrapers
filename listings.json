@@ -18,7 +18,7 @@
     "broker_ref": "SIM",
     "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -40,29 +40,7 @@
     "broker_ref": "SIM",
     "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
-    "is_new": true
-  },
-  {
-    "id": "sim-ventura-county-near-the-beach",
-    "siteId": "TVM-00096",
-    "source": "simmons",
-    "source_url": "https://simmonsinc.com/practice-listings/ventura-county-near-the-beach/",
-    "type": "Small Animal",
-    "state": "",
-    "city": "",
-    "asking_price": null,
-    "annual_revenue": null,
-    "annual_collections": null,
-    "key_metric_value": 3,
-    "exam_rooms": 3,
-    "broker_name": "Simmons & Associates",
-    "broker_company": "Simmons & Associates",
-    "broker_url": "https://simmonsinc.com/practice-listings/",
-    "broker_ref": "SIM",
-    "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
-    "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -84,7 +62,7 @@
     "broker_ref": "SIM",
     "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -106,7 +84,29 @@
     "broker_ref": "SIM",
     "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
+    "is_new": true
+  },
+  {
+    "id": "sim-equine-equipment-sale",
+    "siteId": "TVM-00130",
+    "source": "simmons",
+    "source_url": "https://simmonsinc.com/practice-listings/equine-equipment-sale/",
+    "type": "Equine",
+    "state": "",
+    "city": "",
+    "asking_price": null,
+    "annual_revenue": null,
+    "annual_collections": null,
+    "key_metric_value": null,
+    "exam_rooms": null,
+    "broker_name": "Simmons & Associates",
+    "broker_company": "Simmons & Associates",
+    "broker_url": "https://simmonsinc.com/practice-listings/",
+    "broker_ref": "SIM",
+    "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
+    "business_name_redacted": "Equine Veterinary Practice",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -128,29 +128,7 @@
     "broker_ref": "TPSG",
     "description": "Located just 25 minutes from downtown Seattle, this beautifully designed modern veterinary practice offers an exceptional turnkey opportunity in one of the most sought-after communities in the Greater Seattle area!",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
-    "is_new": true
-  },
-  {
-    "id": "tpsg-turnkey-veterinary-pract",
-    "siteId": "TVM-00112",
-    "source": "tpsg",
-    "source_url": "https://www.totalpracticesolutionsgroup.com/practice/turnkey-veterinary-practice-in-birmingham-area-with-boarding-grooming-expansion-potential/",
-    "type": "Small Animal",
-    "state": "",
-    "city": "",
-    "asking_price": 1156992,
-    "annual_revenue": null,
-    "annual_collections": null,
-    "key_metric_value": null,
-    "exam_rooms": null,
-    "broker_name": "Total Practice Solutions Group",
-    "broker_company": "Total Practice Solutions Group",
-    "broker_url": "https://www.totalpracticesolutionsgroup.com/practices-for-sale/",
-    "broker_ref": "TPSG",
-    "description": "Turnkey Veterinary Practice with Boarding, Grooming & Expansion Potential with ~5,200 square feet and Grossing $1.15 in revenue.",
-    "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -172,7 +150,7 @@
     "broker_ref": "TPSG",
     "description": "Click on any region of the map to find your local veterinary practice broker.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -194,7 +172,7 @@
     "broker_ref": "TPSG",
     "description": "Click on any region of the map to find your local veterinary practice broker.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -216,7 +194,7 @@
     "broker_ref": "TPSG",
     "description": "Click on any region of the map to find your local veterinary practice broker.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -238,7 +216,7 @@
     "broker_ref": "OMNIV #AKV3004",
     "description": "Southern Alaska, 1 doc, grossing $1mil. Nice facility, conveniently located, potential to grow! Contact Jim Vander Mey at 360-941-2341 or jim@omni-pg.com for more information. Lic.#145318 (Omni Practice ID: AKV3004)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -260,7 +238,7 @@
     "broker_ref": "TPSG",
     "description": "Step into an exceptional ownership opportunity: a waterfront veterinary practice paired with prime real estate in Southeast Alaska. This turnkey clinic has been newly renovated , featuring a clean, modern design that elevates both workflow efficiency and client experience.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -282,7 +260,7 @@
     "broker_ref": "PSB",
     "description": "Description : SOLD! Small Animal Veterinary Clinic for Sale in Little River County, Arkansas This small animal veterinary clinic is located in a welcoming Little River County community, where agriculture, manufacturing, and healthcare contribute to a stable and growing local economy. The area\u2019s diverse industries, coupled with a lack of direct competition, make this a highly attractive setting for practice ownership. The hospital is currently operated by a solo DVM working just one day per week, supported by three full-time staff members. Despite such limited doctor hours, the practice current",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -304,7 +282,7 @@
     "broker_ref": "OMNIV #AZV330",
     "description": "$1M+ revenue, 2 exam rooms, Treatment & Surgery rooms, ample parking. Growing. Corral & Trailer area. 1,900+ square feet.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -326,7 +304,7 @@
     "broker_ref": "OMNIV #AZV325",
     "description": "$6.7mil in sales. $1.35mil EBITDA. Located in southwestern United States. 4 FT DVMs and a few PT. State-of-the-art facility and equipment, 7 exam rooms. Price: $13mil or best offer.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -348,7 +326,7 @@
     "broker_ref": "OMNIV #AZV311",
     "description": "Gross $1.3mil, 1.5 associate DVMs plus the owner makes it 2 DVM equivalent. Great location just off busy thoroughfare, high visibility near shopping and residential. Digital x-ray and dental. Large facility with room to grow. AHAA and AAFP certified. South Central Arizona. Contact Jim Vander Mey at 360-941-2341 or jim@omni-pg.com for more information. Lic.#SA688858000 (OMNI Practice ID: AZV311)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -370,7 +348,7 @@
     "broker_ref": "PSB",
     "description": "Description : New Listing! Small Animal Veterinary Practice for Sale in Cochise County, Arizona Located in the scenic and economically stable region of Cochise County in Southeastern Arizona, this well-established small animal veterinary practice offers an exceptional ownership opportunity in a beautiful, desirable high-desert community. Positioned along a major commercial corridor with approximately 24,000 vehicles passing daily, the practice benefits from outstanding visibility, accessibility, and longstanding community recognition. The surrounding area offers an attractive combination of ec",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -392,7 +370,7 @@
     "broker_ref": "PSB",
     "description": "Description : Feline Veterinary Practice for Sale in Arizona Metro This well-established feline-exclusive veterinary practice in the thriving Arizona Metro area offers a prime opportunity for ownership in one of the fastest-growing regions in the country. Positioned in a high-visibility location with nearly 40,000 vehicles passing daily and convenient accessibility, the clinic benefits from a steadily expanding population and ongoing economic development. The surrounding area continues to attract new residents and businesses, fueling strong demand for veterinary services and creating an ideal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -414,7 +392,7 @@
     "broker_ref": "OMNIV #CAV3017",
     "description": "Central Valley, CA veterinary practice with 3 exam rooms, 8 chain-link kennels, collections over $1 mil. Ample parking: 15 spaces.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -436,7 +414,7 @@
     "broker_ref": "OMNIV #CAV3027",
     "description": "Price Reduced! Must Sell! Practice priced at $75,000.00. Rare opportunity to own a veterinary practice located in Redwood Valley, the heart of Mendocino County. Make an offer on this wonderful location!",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -458,7 +436,7 @@
     "broker_ref": "OMNIV #CAV3045",
     "description": "This is an exceptional opportunity to acquire a highly successful, high-performing veterinary practice in the desirable Sonoma County area. This is a turn-key hospital experiencing significant growth. Over $1.6 Million in Gross Annual Revenue. Strong and consistent client base. Remodeled facility with over 2,600 square feet. Real estate also available for purchase. Contact Kim Ford at 805-452-6588 or kim@omni-pg.com for more information. Lic.#2205339 (OMNI Practice ID: CAV3045)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -480,7 +458,7 @@
     "broker_ref": "OMNIV #CAV3047",
     "description": "$450k OBO! Unique opportunity to own a practice in a prime Santa Barbara County location! Practice must sell. Make an offer! Room to expand, lots of potential. This practice is priced to sell, presenting a lucrative business endeavor.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -502,7 +480,7 @@
     "broker_ref": "OMNIV #CAV3052",
     "description": "State-of-the art hospital in a fast growing community. 4 exam rooms. Room to greatly expand revenue. Owner will consider selling real estate.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -524,7 +502,7 @@
     "broker_ref": "OMNIV #CAV3053",
     "description": "Rare opportunity to own a state-of-the art practice in a prized West LA location! New, beautiful, modern 3,500-sf hospital. 4 exam rooms. Potential to expand.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -546,7 +524,7 @@
     "broker_ref": "OMNIV #CAV3055",
     "description": "Consistent gross above $1.3M with excellent cash flow. Clean, well-designed facility with modern, well-maintained equipment.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -568,7 +546,7 @@
     "broker_ref": "OMNIV #CAV3023",
     "description": "Must be seen to be appreciated! Rare find with real estate for sale. Over $1.2 Million in collections. Not far from Sacramento.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -590,7 +568,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Clinic for Sale in Mendocino County, California This veterinary practice is situated in Mendocino County, California, in a city known for being part of the scenic region and surrounded by the natural beauty of a National Forest and the awe-inspiring redwoods! Beyond its natural allure, the area is renowned for its thriving arts community, hosting local performances, galleries, and cultural events that contribute to the city\u2019s creative atmosphere. Nestled amidst the captivating landscapes of Northern California, the clinic is well-established and has cultiv",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -612,7 +590,29 @@
     "broker_ref": "PSB",
     "description": "Description : Under Contract Small Animal Veterinary Hospital for Sale in Alameda County, California This veterinary practice is nestled in the scenic landscape of Alameda County, California, a unique gem within the San Francisco Bay Area. What sets the area apart is its picturesque setting between the East Bay hills, providing breathtaking views and a perfect blend of a rural and suburban lifestyle, with easy access to nearby urban centers. There truly is something for everyone in this special area! With an array of amenities, including parks, recreational facilities, and cultural attractions",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
+    "is_new": true
+  },
+  {
+    "id": "sim-aptos-ca",
+    "siteId": "TVM-00129",
+    "source": "simmons",
+    "source_url": "https://simmonsinc.com/practice-listings/aptos-ca/",
+    "type": "Small Animal",
+    "state": "CA",
+    "city": "Aptos",
+    "asking_price": null,
+    "annual_revenue": null,
+    "annual_collections": null,
+    "key_metric_value": 3,
+    "exam_rooms": 3,
+    "broker_name": "Simmons & Associates",
+    "broker_company": "Simmons & Associates",
+    "broker_url": "https://simmonsinc.com/practice-listings/",
+    "broker_ref": "SIM",
+    "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
+    "business_name_redacted": "Veterinary Practice",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -634,7 +634,7 @@
     "broker_ref": "OMNIV #COV103",
     "description": "1,900 sf, $900k revenue, 2 exam rooms, large treatment area & surgery suite. Affluent client base, ample parking. Contact Max at 970-306-7472 or max@omni-pg.com for more information. Lic.#F00106975. (OMNI Practice ID: COV103)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -656,7 +656,7 @@
     "broker_ref": "SIM",
     "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -678,7 +678,7 @@
     "broker_ref": "OMNIV #CTV101",
     "description": "Profitable $3.5M hybrid (GP/Urgent Care) SA hospital in Hartford/New Haven area for sale. Rapidly growing, with modern facilities and top-rated care.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -700,7 +700,7 @@
     "broker_ref": "SIM",
     "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -722,7 +722,7 @@
     "broker_ref": "PSA #FL0005",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -744,7 +744,7 @@
     "broker_ref": "PSA #FL0009",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -766,7 +766,7 @@
     "broker_ref": "PSB",
     "description": "Description : New Listing! Small Animal Veterinary Practice for Sale in Brevard County, Florida Located in Florida\u2019s highly desirable Space Coast region of Brevard County, this well-established small animal practice is available in one of the state's fastest-growing markets. Serving a loyal and growing client base, the hospital has built a strong reputation for high-quality care, personalized service, and a stress-free environment. Generating over $1.4 million in annual gross revenue with an estimated cash flow approaching $450,000, the practice continues to benefit from the area's steady popu",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -788,7 +788,7 @@
     "broker_ref": "PSB",
     "description": "Description : Under Contract Small Animal Veterinary Hospital for Sale in Palm Beach County, Florida Located in beautiful Palm Beach County in South Florida, this AAHA-accredited, privately owned veterinary practice has been a trusted provider of high-quality, compassionate care to the community for over four decades. Serving a loyal client base from surrounding areas, the hospital is known for its personalized, family-oriented approach, advanced laser surgery and dentistry, comprehensive diagnostics, and online pharmacy. With an outstanding local reputation and overwhelmingly positive client",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -810,7 +810,7 @@
     "broker_ref": "TPSG",
     "description": "Looking for a practice in Northwest Florida? This established small animal clinic offers consistent revenue, strong cash flow, and a loyal, long-standing client base.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -832,7 +832,7 @@
     "broker_ref": "PSA #GA0006",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -854,7 +854,7 @@
     "broker_ref": "PSA #GA0002",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -876,7 +876,7 @@
     "broker_ref": "OMNIV #IDV312",
     "description": "Central Idaho Small Animal Clinics - 2 Locations. Total gross $1.4mil, 2 DVMS. Nice, well-maintained, spacious facilities. Desirable growing area. Real estate available. Contact Rod Johnston at 206-979-2660 or rod@omni-pg.com for more information. Lic.#DB49245 (OMNI Practice ID: IDV312)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -898,7 +898,7 @@
     "broker_ref": "OMNIV #IDV310",
     "description": "Single-doc practice grossing $650K. Nice large facility, room to expand. Could support large animal if desired. Real estate available. Digital X-ray, 1-year-old Ultrasound, Avimark software. 2 LVTs. Contact Rod Johnston at 206-979-2660 or rod@omni-pg.com for more information. Lic.#DB49245 (OMNI Practice ID: IDV310)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -920,7 +920,7 @@
     "broker_ref": "PSB",
     "description": "Description : New Listing! Small Animal Veterinary Practice for Sale in Bonneville County, Idaho This well-established small-animal veterinary practice in Bonneville County, Idaho, is located along a high-visibility commercial corridor with over 22,000 vehicles passing daily. The property offers excellent exposure, easy access, and a large private parking lot, making it convenient for clients and highly desirable for continued growth. Situated in a thriving and steadily expanding region, the practice benefits from a strong mix of residential growth, local commerce, and a loyal client base that",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -942,7 +942,7 @@
     "broker_ref": "PSB",
     "description": "Description : New Listing! Small Animal Veterinary Practice for Sale in Winnebago County, Illinois This established small animal practice in Winnebago County, Illinois, is available for purchase as the owner plans to retire. Generating approximately $964,000 in annual gross revenue, the practice has built a loyal client base and a strong reputation throughout the region. With real estate, an experienced support team, and a well-equipped facility, the practice offers a solid foundation for continued success and opportunities for future growth. Located approximately 90 miles northwest of Chicago",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -964,7 +964,7 @@
     "broker_ref": "PSB",
     "description": "Description : Primarily Small Animal Veterinary Clinic for Sale in Coles County, Illinois Located in Coles County in east-central Illinois, this long-established veterinary clinic presents an exceptional opportunity for a veterinarian seeking ownership in a reputable and profitable practice. With roots dating back to the mid-20th century, the clinic has earned the loyalty of generations of clients across the region. Approximately 95% of its revenue is derived from small animal services, with limited large animal work typically performed outside of regular hours. Generating around $1.8 million",
     "business_name_redacted": "Large Animal Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -986,7 +986,7 @@
     "broker_ref": "PSB",
     "description": "Description : Price Improvement Small Animal Veterinary Hospital for Sale in Rock Island County, Illinois This well-established small animal hospital is located in a vibrant Rock Island County community along the Mississippi River, part of the thriving Quad Cities region. The area offers scenic riverfront parks, cultural institutions, recreational amenities, and convenient access to urban centers, including Davenport, Rock Island, and Bettendorf. Its central Midwest location also provides easy proximity to Chicago, Des Moines, and Minneapolis. The clinic operates in a residential area with str",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1008,7 +1008,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Hospital for Sale in Jefferson County, Kansas This veterinary practice rests in a prime location on a main thoroughfare just south of the city. This growing area of northeast Kansas offers the charm of small-town living with easy access to the urban amenities of nearby Topeka and Lawrence. The town is known for its close-knit community, excellent schools, and abundant outdoor recreational opportunities like golfing, fishing, hunting, and boating. Known for its strong community reputation and \u201csmall-town values,\u201d the hospital offers comprehensive veterinary",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1030,7 +1030,7 @@
     "broker_ref": "TPSG",
     "description": "Located in the Kansas City metro, this well\u2011established two\u2011doctor veterinary practice offers an exceptional opportunity for the right buyer. The hospital sits in a premier area known for strong demographics, steady growth, and a loyal client base that has trusted the team for years.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1052,7 +1052,7 @@
     "broker_ref": "TPSG",
     "description": "This well-established companion animal practice in southern Johnson County, Kansas presents an excellent opportunity for a veterinarian looking to own a thriving practice with room to grow. Currently operating as a one-doctor practice, this hospital generates approximately $900,000 in annual gross revenue and features three fully equipped exam rooms.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1074,7 +1074,7 @@
     "broker_ref": "OMNIV #CAV3046",
     "description": "LA County Veterinary Hospital. Modern, turn-key practice, 3 exam rooms, over 4,300 sf, abundant parking. Collections over $1.4M in 2024, with higher revenue anticipated for 2025. Excellent cash flow. Revenue has been increasing each year. Wonderful opportunity for a buyer looking for a successful practice with room to grow. Real estate also available. Contact Kim Ford at 805-452-6588 or kim@omni-pg.com for more information. Lic.#2205339 (OMNI Practice ID: CAV3046)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1096,7 +1096,7 @@
     "broker_ref": "OMNIV #MAV101",
     "description": "Highly-Profitable & Popular Feline-Only Practice serving Norfolk, Suffolk, and Middlesex Counties in Greater Boston Area",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1118,7 +1118,7 @@
     "broker_ref": "OMNIV #MAV109",
     "description": "This picturesque and renovated New England-style 1,797-sf small animal general practice is available for sale in a calm and peaceful setting. Real estate is available with the practice. Loyal clientele. Collections over $800k, with top sources of revenue being pharmacy, exams, and surgery. Practice is busy with 368 visits a month and growing about 15 new patients per month. Contact Rohit Malhotra at 234-353-3268 or rohit@omni-pg.com for more information. (Omni Practice ID: MAV109)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1140,7 +1140,7 @@
     "broker_ref": "TPSG",
     "description": "This small animal practice is a second-generation family-owned business established in 1968. This outpatient facility has a reputation for delivering exceptional care and fostering strong client relationships. The diverse client base includes both generational and new clients, as well as established ones.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1162,7 +1162,7 @@
     "broker_ref": "OMNIV #MEV102",
     "description": "$1.3M in collections and over 80 years of providing services for the community. Growing rapidly at 50 patients per month with room to expand.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1184,7 +1184,7 @@
     "broker_ref": "OMNIV #MEV101",
     "description": "This unique 2,700-sf small animal general wellness practice sits on a 21-acre property. Newly renovated 2,400-sf house connected to the hospital, 960-sf garage with apartment above, and a greenhouse. Real estate is available along with the practice. Ample parking, great road visibility, two exam-rooms with an onsite crematory. Includes digital medical records, digital x-ray, digital dental, and portable ultrasound. Collections are over $700K. Services over 1,600 active clients. Located near veterinary referral hospitals with ER and academia for off-hours and specialty care. The land is zoned t",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1206,7 +1206,7 @@
     "broker_ref": "PSB",
     "description": "Description : New Listing! Small Animal Veterinary Practice for Sale in Cheboygan County, Michigan This small animal practice in Cheboygan County offers the opportunity to acquire a well-established veterinary business in one of Northern Michigan's most desirable regions. Generating approximately $874,000 in annual gross revenue with an estimated cash flow of $370,000, the practice combines strong profitability, real estate ownership, and a loyal client base in a community celebrated for its natural beauty, outdoor recreation, and exceptional quality of life. The practice has earned an outstan",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1228,7 +1228,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Clinic for Sale in St. Clair County, Michigan This well-established small animal veterinary clinic in St. Clair County, Michigan, offers an excellent opportunity for a veterinarian seeking to own a thriving, community-focused hospital. Serving the surrounding region since 2007, the practice has built a loyal client base and a strong reputation for compassionate, personalized care. Located within walking distance to the scenic Lake Huron shoreline, the area offers a relaxed lifestyle with access to beaches, boating, and outdoor recreation while remaining wi",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1250,7 +1250,7 @@
     "broker_ref": "PSB",
     "description": "Description : Motivated Seller Small Animal Veterinary Hospital for Sale in Macomb County, Michigan This thriving veterinary hospital offers an exceptional opportunity to own a well-established practice in the growing community of Macomb County, Michigan. Serving the community for nearly 50 years, this reputable hospital is ideally located near a prominent, signalized intersection with high visibility and easy access from the main thoroughfare, making it a convenient choice for pet owners in the surrounding residential neighborhoods. The free-standing, 2,250-square-foot facility sits on prime",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1272,7 +1272,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Practice for Sale in Lower Northwest Michigan This well-established practice sits on a main thoroughfare in one of Michigan\u2019s most desirable and growing coastal destinations! The area is renowned for its freshwater beaches, sand dunes, parks, harbors, vineyards, wineries, breweries, excellent restaurants, specialty shops, and year-round outdoor recreation. It truly offers the quintessential \u201cPure Michigan\u201d lifestyle. The practice is thriving, with the owner working full-time alongside a large, well-trained support team. Currently, it is closed on weekends",
     "business_name_redacted": "Emergency/Specialty Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1294,7 +1294,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Hospital for Sale in Nicollet County, Minnesota Located in Nicollet County, south-central Minnesota, this small animal practice offers an exceptional ownership opportunity in a region renowned for its balance of comfort, convenience, and high quality of life. The surrounding area benefits from the amenities of the greater metropolitan region, including riverfront recreation, vibrant retail and dining, and a strong sense of community. With affordable living, excellent schools, and steady economic growth, this part of Minnesota continues to attract families,",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1316,7 +1316,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Hospital for Sale in Southern Montana This established small animal veterinary practice in Southern Montana offers an exceptional ownership opportunity in one of the most scenic regions of the American West. The hospital has built a strong reputation for compassionate care and personalized client relationships, supported by a loyal and growing client base. Surrounded by mountain ranges, open ranchland, and abundant outdoor recreation, the area offers an appealing balance of professional opportunity and lifestyle, an ideal setting for a veterinarian seeking",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1338,7 +1338,7 @@
     "broker_ref": "SIM",
     "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1360,7 +1360,7 @@
     "broker_ref": "PSA #NC0007",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1382,7 +1382,7 @@
     "broker_ref": "PSA #NC0009",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1404,7 +1404,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Clinic for Sale in Northeastern North Carolina This thriving veterinary clinic is located in a historic Northeastern North Carolina town known for its Southern charm, beautiful turn-of-the-century homes, and welcoming, small-town atmosphere. The community benefits from a strong population base and convenient proximity to Greenville, Raleigh, and Charlotte, creating an ideal blend of small-town living with easy access to larger metropolitan amenities. The clinic is prominently situated on a main thoroughfare, offering excellent visibility and accessibility,",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1426,7 +1426,7 @@
     "broker_ref": "TPSG",
     "description": "Two doctor, small animal practice with two locations, grossing $2MM near the ND/MN border. Very profitable with great cash flow.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1448,7 +1448,7 @@
     "broker_ref": "OMNIV #NHV101",
     "description": "Profitable SA general practice with holistic services in a mountain town. 1 doctor. Collections $470K. 84 patients/month and 32 new patients/month.",
     "business_name_redacted": "Emergency/Specialty Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1470,7 +1470,7 @@
     "broker_ref": "OMNIV #NHV103",
     "description": "This highly profitable small animal GP hospital with approximately $680k in total collections and strong profit margin has a positive reputation in the community in providing personable services, minimal turnover of team members, practicing high standards of care, and a modern facility that can be expanded with urgent care, boarding, and grooming services. This practice has provided the utmost quality of care in the Grafton County areas since 2019 and has received many notable recognitions. It has a strong brand and reputation where clients appreciate the consistency of familiar faces and prom",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1492,7 +1492,7 @@
     "broker_ref": "PSB",
     "description": "Description : Under Contract Small Animal Veterinary Clinic for Sale in Merrimack County, New Hampshire This long-established veterinary clinic rests in a charming and vibrant town with a mix of rural and urban surrounding areas, providing a perfect balance between natural beauty and access to a variety of amenities. The town\u2019s convenient location near major highways provides quick access to larger cities and attractions, while still enjoying the tranquility of a smaller community. The clinic is currently operated by a full-time solo DVM supported by an outstanding team. In 2024, the practice",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1514,7 +1514,7 @@
     "broker_ref": "PSB",
     "description": "Description : Price Improvement Small Animal Veterinary Hospital for Sale in Monmouth County, New Jersey This veterinary hospital rests in a charming borough in Monmouth County. The conveniently located city offers a delightful blend of suburban living and is just minutes from the stunning beaches of the Jersey Shore. With its tree-lined streets, well-maintained parks, and friendly community atmosphere, this location is great for families. The vibrant downtown area is a highlight, with an array of dining options, boutique shops, and local businesses, providing ample opportunities for entertain",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1536,7 +1536,7 @@
     "broker_ref": "OMNIV #NYV104",
     "description": "Highly profitable and progressive mobile medicine referral practice. Over $1.1M in collections. Serves approx. 40 veterinary hospitals with exponential growth!",
     "business_name_redacted": "Emergency/Specialty Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1558,7 +1558,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Practice for Sale in Washington County, New York Located in picturesque Washington County in Upstate New York, this primarily small animal practice presents an exceptional opportunity for veterinary ownership in a vibrant yet peaceful setting. The region is surrounded by a rich mix of historic villages and thriving communities, including Saratoga Springs, Troy, Albany, Cambridge, and Greenwich, offering the perfect balance of rural charm and modern convenience. With access to top veterinary schools like Cornell and Tufts, excellent local school systems, ab",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1580,7 +1580,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Hospital for Sale in Erie County, New York Situated near the heart of Erie County, this well-established veterinary practice benefits from a peaceful setting with the advantages of nearby Buffalo and Niagara Falls. The area is known for its welcoming neighborhoods, excellent schools, and endless recreation, from riverfront trails and seasonal festivals to professional sports and cultural attractions. Easy access to Interstate 190 and the Buffalo Niagara International Airport makes the location even more desirable. For more than 25 years, this clinic has bu",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1602,7 +1602,7 @@
     "broker_ref": "TPSG",
     "description": "The hospital is a solo doctor, small animal exclusive, practice. The current owner is looking to retire, but would work a short time to assist the buyer with the transition.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1624,7 +1624,7 @@
     "broker_ref": "TPSG",
     "description": "This has served the Suffern, New York community with distinction since 1988, building a loyal client base over more than three decades of compassionate, high-quality veterinary care. Strategically situated on the New York/New Jersey border, the practice draws a predominantly upper-middle-class clientele known for their commitment to their pets\u2019 health \u2014 clients who accept treatment plans without hesitation and rarely request itemized estimates.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1646,7 +1646,7 @@
     "broker_ref": "PSB",
     "description": "Description : New Listing! Small Animal Veterinary Practice for Sale in Central Ohio This well-established small animal veterinary practice in Central Ohio offers an ownership opportunity in a thriving, accessible market. Located just 15\u201320 minutes from a major metropolitan downtown, the practice benefits from proximity to a large and growing population base, a strong regional economy, and convenient access to a major international airport. The surrounding area offers an appealing mix of suburban comfort and urban amenities, including excellent schools, retail centers, parks, and cultural attr",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1668,7 +1668,7 @@
     "broker_ref": "PSB",
     "description": "Description : Price Improvement Small Animal Veterinary Hospital for Sale in Franklin County, Ohio Seize the opportunity to own a profitable, highly regarded veterinary hospital with deep roots in the thriving community of Franklin County, Ohio. This well-established practice boasts an outstanding reputation built over four decades, high staff retention, loyal clientele, and desirable real estate situated on nearly half an acre. Ideally located within a bustling business and residential corridor, the facility offers nearly 2,400 square feet of space and benefits from its proximity to major dev",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1690,7 +1690,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Clinic for Sale in Northeast Ohio Located in Northeast Ohio, this practice benefits from a community that blends small-town charm with a solid economic foundation. The area is home to excellent schools, safe neighborhoods, and a supportive population. Residents enjoy convenient access to healthcare, shopping, and recreation, while Interstate 77 provides quick connectivity to Canton, Akron, and Cleveland. Ongoing economic investments in the region are expected to create approximately 650 new jobs, further strengthening the local economy and expanding the po",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1712,7 +1712,7 @@
     "broker_ref": "OMNIV #ORV355",
     "description": "2 exam rooms. Single DVM grossing $1.16 mil. Owner will continue working. 1,600-sf well-maintained, leased facility. High-visibility shopping complex, growing suburban area of upper middle class. Cornerstone Management Software. Contact Jim Vander Mey at 360-941-2341 or jim@omni-pg.com for more information. Lic.#201220298 (Omni Practice ID: ORV355)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1734,7 +1734,7 @@
     "broker_ref": "OMNIV #ORV364",
     "description": "Portland area small animal clinic. Gross $1.03mil, 3 DVMS, leased facility. Conveniently located with high visibility within a busy shopping complex near major box stores. Ample parking. Contact Steve Kikikis at 425-905-6920 or steve@omni-pg.com for more information. Lic.#201258508 (OMNI Practice ID: ORV364)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1756,7 +1756,7 @@
     "broker_ref": "OMNIV #ORV365",
     "description": "20 minutes from Lincoln City. Well-established, single-DVM small animal clinic generating $840k in annual revenue. Excellent reputation. Great work/life balance. Financing available!",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1778,7 +1778,7 @@
     "broker_ref": "OMNIV #ORV367",
     "description": "Single-DVM practice with two exam rooms grossing $764K. Strong net cashflow. Excellent reputation in the community. High-visibility clinic. New to the market!",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1800,7 +1800,7 @@
     "broker_ref": "OMNIV #ORV368",
     "description": "Overview: Exceptional opportunity to acquire a well-established, single-doctor (1 DVM) small animal veterinary practice located in desirable Clackamas County, near the I-5 corridor. The practice has a long history of service and enjoys an excellent reputation within the community for high-quality, compassionate care. Business Highlights: - Consistent profitability with strong historical financial performance - Loyal client base with steady new client growth - Efficient operations supported by experienced staff - Equipped treatment and exam areas with modern diagnostic capabilities - Turn-key t",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1822,7 +1822,7 @@
     "broker_ref": "OMNIV #ORV332",
     "description": "This is a great opportunity to purchase a well-established South-of-Portland Suburban Veterinary Clinic. The practice currently has 1.5 DVMs, a great reputation, a strong support staff, and is quite profitable with a strong cash flow and 2024 EBITDA of $115k. The building is also available for purchase or lease. Contact Steve Kikikis at 425-905-6920 or steve@omni-pg.com for more information. Lic.#201258508 (OMNI Listing ID: ORV332)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1844,7 +1844,7 @@
     "broker_ref": "OMNIV #PAV101",
     "description": "Generating over $800k in collections with margins over 30%. Steady growth of 15 new patients monthly. Prime location 30 min from Philadelphia with efficient team in place.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1866,7 +1866,7 @@
     "broker_ref": "OMNIV #PAV102",
     "description": "Fully-staffed, turn-key vet hospital with real estate. Boarding and grooming revenue streams with exotic and small animal services. Offered at $700K.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1888,29 +1888,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Hospital for Sale in Centre County, Pennsylvania Located in scenic Centre County, this thriving small animal veterinary hospital presents an exceptional ownership opportunity in a growing Central Pennsylvania market. Established just four years ago, the practice is positioned along a major east-west highway with over 13,000 vehicles passing daily. With steady year-over-year growth, it has quickly earned a reputation for compassionate care, clinical excellence, and strong community engagement\u2014currently generating over $744,000 in gross revenue with appointm",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
-    "is_new": true
-  },
-  {
-    "id": "sim-new-central-pa-in-the-i-99-corridor",
-    "siteId": "TVM-00099",
-    "source": "simmons",
-    "source_url": "https://simmonsinc.com/practice-listings/new-central-pa-in-the-i-99-corridor/",
-    "type": "Small Animal",
-    "state": "PA",
-    "city": "",
-    "asking_price": null,
-    "annual_revenue": null,
-    "annual_collections": null,
-    "key_metric_value": 3,
-    "exam_rooms": 3,
-    "broker_name": "Simmons & Associates",
-    "broker_company": "Simmons & Associates",
-    "broker_url": "https://simmonsinc.com/practice-listings/",
-    "broker_ref": "SIM",
-    "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
-    "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1932,7 +1910,7 @@
     "broker_ref": "OMNIV #RIV101",
     "description": "Kent County, RI - Small Animal Hospital for Sale | Modern Facility, Loyal Client Base, Expansion Potential, and Urgent Care Growth Opportunity",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1954,7 +1932,7 @@
     "broker_ref": "PSA #SC0006",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1976,7 +1954,7 @@
     "broker_ref": "PSA #SC0007",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -1998,7 +1976,7 @@
     "broker_ref": "PSA #SC0005",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2020,7 +1998,7 @@
     "broker_ref": "TPSG",
     "description": "The current owner purchased this small animal clinic in South Carolina in 2017. This efficient building has three exam rooms, one treatment room, a surgical room, a digital x-ray, ample green space, and an expansive parking area. The owner works nine hours weekly, and associates cover thirty hours. A motivated new owner can grow this practice by working more hours and extending office hours on Saturdays.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2042,7 +2020,7 @@
     "broker_ref": "SIM",
     "description": "Buying Buying a Veterinary Practice How to Buy a Practice",
     "business_name_redacted": "Mixed Animal Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2064,29 +2042,7 @@
     "broker_ref": "PSA #TN0002",
     "description": "SELLERS Selling a Vet Practice Seller Steps Valuation FAQs Client Portal",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
-    "is_new": true
-  },
-  {
-    "id": "tpsg-nashville",
-    "siteId": "TVM-00108",
-    "source": "tpsg",
-    "source_url": "https://www.totalpracticesolutionsgroup.com/practice/nashville/",
-    "type": "Small Animal",
-    "state": "TN",
-    "city": "",
-    "asking_price": 1160366,
-    "annual_revenue": null,
-    "annual_collections": null,
-    "key_metric_value": 4,
-    "exam_rooms": 4,
-    "broker_name": "Total Practice Solutions Group",
-    "broker_company": "Total Practice Solutions Group",
-    "broker_url": "https://www.totalpracticesolutionsgroup.com/practices-for-sale/",
-    "broker_ref": "TPSG",
-    "description": "Premier small animal veterinary practice now available in one of Tennessee\u2019s most desirable and steadily growing markets. Located in the greater Nashville area, this opportunity offers strong visibility, an established presence, and a well-designed clinical footprint positioned for continued demand in a thriving community.",
-    "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2108,7 +2064,7 @@
     "broker_ref": "OMNIV #TXV114",
     "description": "Well-established small animal clinic located in San Antonio, Texas poised for growth in a strategic location. Real Estate included.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2130,7 +2086,7 @@
     "broker_ref": "OMNIV #TXV113",
     "description": "Turnkey opportunity ideal for first-time buyer or expansion! Long history of serving loyal clients with dependable, compassionate care.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2152,7 +2108,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Hospital for Sale in Bexar County, Texas Located just east of San Antonio in Bexar County, Texas, the city offers a blend of rural charm and accessibility to a major metropolitan area, making it attractive to those seeking a quieter lifestyle without sacrificing proximity to city amenities. Despite its modest size, the city benefits from its strategic location along major transportation routes, facilitating commerce and trade with nearby cities. For the new owner, this practice presents the opportunity to serve a close-knit community, building strong bonds",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2174,7 +2130,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Hospital for Sale in Upshur County, Texas Seize the opportunity to own this thriving veterinary hospital in a welcoming and supportive community of Upshur County, Texas. Located in the heart of East Texas, the city offers a small-town feel with the convenience of being just a short drive away from larger cities like Longview and Tyler. The city\u2019s strategic location and supportive local government offer a favorable business environment, with incentives such as tax abatements and grants. The presence of a skilled workforce, supported by nearby educational in",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2196,7 +2152,29 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Hospital for Sale in Cass County, Texas This thriving veterinary practice is situated in the scenic region of East Texas in Cass County. As the only small animal practice within a 25-mile radius currently accepting new patients, the place is bustling! The community provides a serene, small-town lifestyle while still offering access to modern amenities. Its proximity provides residents easy access to a broader range of job opportunities, shopping, and entertainment options while allowing for a tranquil place to call home. The hospital operates as a 2-DVM pr",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
+    "is_new": true
+  },
+  {
+    "id": "tpsg-turnkey-small-animal-pra",
+    "siteId": "TVM-00131",
+    "source": "tpsg",
+    "source_url": "https://www.totalpracticesolutionsgroup.com/practice/turnkey-small-animal-practice-central-texas/",
+    "type": "Small Animal",
+    "state": "TX",
+    "city": "",
+    "asking_price": 861000,
+    "annual_revenue": null,
+    "annual_collections": null,
+    "key_metric_value": 3,
+    "exam_rooms": 3,
+    "broker_name": "Total Practice Solutions Group",
+    "broker_company": "Total Practice Solutions Group",
+    "broker_url": "https://www.totalpracticesolutionsgroup.com/practices-for-sale/",
+    "broker_ref": "TPSG",
+    "description": "Companion animal practice serving a rapidly growing Central Texas community.",
+    "business_name_redacted": "Veterinary Practice",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2218,7 +2196,7 @@
     "broker_ref": "VSC #TX150",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2240,7 +2218,7 @@
     "broker_ref": "VSC #TX137",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2262,7 +2240,7 @@
     "broker_ref": "VSC #TX134",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2284,7 +2262,7 @@
     "broker_ref": "VSC #TX138",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2306,7 +2284,7 @@
     "broker_ref": "VSC #TX145",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2328,7 +2306,7 @@
     "broker_ref": "VSC #TX132",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Mixed Animal Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2350,7 +2328,7 @@
     "broker_ref": "VSC #TX146",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2372,7 +2350,7 @@
     "broker_ref": "VSC #TX139",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Emergency/Specialty Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2394,7 +2372,7 @@
     "broker_ref": "VSC #TX149",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2416,7 +2394,7 @@
     "broker_ref": "VSC #TX151",
     "description": "Services I Want to Sell Seller Representation Seller FAQ Inquire Now Transaction Terms I Want to Buy Buyer Representative Buyer FAQ Buyer Profile Listing Match Emails Transaction Terms Transition Program Valuations Practice Enhancements Start-ups",
     "business_name_redacted": "Equine Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2438,7 +2416,7 @@
     "broker_ref": "OMNIV #VAV104",
     "description": "Well-established small animal practice near Washington, D.C. | Strong and loyal client base | High visibility on main road | Strong growth potential.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2460,7 +2438,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Hospital for Sale in West-Central Virginia Located in West-central Virginia in the heart of the Shenandoah Valley, this long-established small animal hospital is known for delivering compassionate, high-quality veterinary care in one of the region\u2019s most picturesque and welcoming communities. The area offers a unique blend of natural beauty and modern convenience, with residents enjoying scenic mountain views, outdoor recreation, and a vibrant local culture. The area\u2019s family-friendly atmosphere, strong schools, and economic stability make it an attractive",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2482,7 +2460,7 @@
     "broker_ref": "OMNIV #WAV3157",
     "description": "Grossing over $1.4 million in a high-visibility location with strong net income to buyer. Staffed by 1.25 DVM's. Real estate available for lease or purchase.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2504,7 +2482,7 @@
     "broker_ref": "OMNIV #WAV3041",
     "description": "Methow Valley, WA . Grossing $460k annually. 1 DVM. Great team and well established. Excellent opportunity to get into practice ownership. Financing options are available. Highly Motivated Seller.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2526,7 +2504,7 @@
     "broker_ref": "OMNIV #WAV3118",
     "description": "Located in a desirable area with year-round recreation! Profitable practice grossing $630k. Retiring Doctor would stay on if desired. 2,800-sf leased space in a beautiful, single-story building with state-of-the-art equipment. Metal siding, granite counters, high ceilings, concrete flooring, and great natural light. Contact Steve Kikikis at 425-905-6920 or steve@omni-pg.com for more information. Lic.#94563 (OMNI Practice ID: WAV3118)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2548,7 +2526,7 @@
     "broker_ref": "OMNIV #WAV3151",
     "description": "Tri-Cities small animal clinic for sale. Successful, growing practice with high cash flow. Single doc grossing $843k. Easy access, high-visibility location just off interstate near city center and conveniences. Digital x-ray and other specialty equipment. Sizeable space at 3,700 sf.\u200b Real estate is available. \u200bPillar of the community for over 70 years! Motivated Seller! Make an Offer! Contact Steve Kikikis at 425-905-6920 or steve@omni-pg.com for more information. Lic.#94563 (OMNI Practice ID: WAV3151)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2570,7 +2548,7 @@
     "broker_ref": "OMNIV #WAV3158",
     "description": "Very nice facility. 1 DVM. Grossing $347k. Real Estate could be included. Excellent opportunity to get into practice ownership",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2592,7 +2570,7 @@
     "broker_ref": "OMNIV #WAV3160",
     "description": "This well-established veterinary practice is located in a thriving and growing community, boasting an outstanding reputation for quality care. The clinic generates a gross revenue of $1.1 million with a strong net income, providing a solid financial foundation for a new owner. The facility features modern, clean construction and has recently undergone renovations, creating an inviting and professional environment for clients and staff alike. Currently staffed by one full-time DVM and a stable, experienced team, this practice offers an excellent opportunity for a veterinarian seeking ownership",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2614,7 +2592,7 @@
     "broker_ref": "OMNIV #WAV3161",
     "description": "Vancouver veterinary practice for sale. 2 DVMs. Excellent location with high visibility. Beautiful buildout. Grossing $1.1M. Contact Steve Kikikis at 425-905-6920 or steve@omni-pg.com for more information. Lic.#94563 (OMNI Practice ID: WAV3161)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2636,7 +2614,7 @@
     "broker_ref": "OMNIV #WAV3166",
     "description": "Two DVMs, +$1.5m EBITDA, High-Visibility Location Sellers willing to stay for the long term, qualified buyers only. Near I-5 corridor. Contact Steve Kikikis at 425-905-6920 or steve@omni-pg.com for more information. Lic.#94563 (OMNI Practice ID: WAV3166)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2658,7 +2636,7 @@
     "broker_ref": "OMNIV #WAV3168",
     "description": "For over three decades, the Cat Clinic Snohomish County has been the go-to destination for cat owners across one of the Seattle metro's fastest-growing suburban corridors. Now, after 31 years, the sole owner is retiring \u2014 and this extraordinary practice is available for the first time.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2680,7 +2658,7 @@
     "broker_ref": "OMNIV #WAV3167",
     "description": "An exceptional opportunity to acquire a thriving, well-established small animal general practice in Pacific County, Washington. This is a highly reputable, solo-DVM practice with a loyal, long-standing client base and a strong track record of consistent revenue growth. Real Estate will be sold with the practice!",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2702,7 +2680,7 @@
     "broker_ref": "TPSG",
     "description": "This single, small animal practice is in a leased space. 2024 Gross Revenue was over $1.9 million. There are 3 exam rooms and 2 treatment areas. Average rate of return for the last 3 years was over 15%. 45 minutes from Bellevue.",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2724,7 +2702,7 @@
     "broker_ref": "PSB",
     "description": "Description : Small Animal Veterinary Practice for Sale in Brown County, Wisconsin This modern small-animal veterinary practice is located in Brown County, northeastern Wisconsin, within a welcoming, growing community that blends residential charm with convenient access to regional amenities. Established just under a decade ago, the hospital was thoughtfully developed by an experienced veterinarian and designed to support high-quality medicine in a calm, client-focused setting. The practice has built a strong local reputation for compassionate care, flexible appointment times, and personalized",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   },
   {
@@ -2746,7 +2724,7 @@
     "broker_ref": "OMNIV #WV3008",
     "description": "MUST SELL! PRICE REDUCED! Profitable veterinary practice for sale in the heart of wine country in Yakima County. Collections of $400,000, with business being turned away! Corner lot on the main thoroughfare. Favorable lease, 3 separate kennel rooms (overnight allowed). Associate-to-own opportunity. Grow the practice and/or have seller stay on part time. Contact Steve Kikikis at 425-905-6920 or steve@omni-pg.com for more information. Lic.#94563 (OMNI Listing ID: WV3008)",
     "business_name_redacted": "Veterinary Practice",
-    "scraped_date": "2026-07-22",
+    "scraped_date": "2026-07-23",
     "is_new": true
   }
 ]
