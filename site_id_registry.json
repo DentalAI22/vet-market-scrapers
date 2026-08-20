@@ -1,7 +1,7 @@
 {
   "prefix": "TVM",
   "base": 1,
-  "next_id": 149,
+  "next_id": 151,
   "map": {
     "omnv-AKV3004": 1,
     "omnv-NHV101": 2,
@@ -150,6 +150,8 @@
     "tpsg-established-small-animal": 145,
     "tpsg-staten-island-new-york": 146,
     "sim-small-animal-hospital-northeast-ohio": 147,
-    "omnv-MTV105": 148
+    "omnv-MTV105": 148,
+    "sim-central-virginia-i-64-corridor": 149,
+    "sim-new-indianapolis": 150
   }
 }
